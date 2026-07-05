@@ -10,3 +10,5 @@ List of Familiar Git Commands
 - git remove
 - git status
 - git log
+- git restore
+- git reset
